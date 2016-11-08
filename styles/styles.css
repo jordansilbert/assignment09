@@ -1,0 +1,12 @@
+/* All of YOUR styles go here. They take effect after those in the normalize CSS file, but will overwrite anything that conflicts. */
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+dt {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
